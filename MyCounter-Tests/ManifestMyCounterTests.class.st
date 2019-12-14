@@ -1,5 +1,5 @@
 "
-MyConter test package (now versioned)
+MyConter test package
 "
 Class {
 	#name : #ManifestMyCounterTests,
